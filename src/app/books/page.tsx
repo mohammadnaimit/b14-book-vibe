@@ -7,9 +7,15 @@ import BookCard from "@/components/shared/BookCard";
 
 
 const getBooks = async () => {
-  const response = await fetch("http://localhost:3000/booksData.json");
-  const data = await response.json();
-  return data;
+  try {
+    const response = await fetch("http://localhost:3000/booksData.json");
+    const data = await response.json();
+    return data;
+  }catch(error) {
+    console.error("Error fetching books data:", error);
+    return [];
+  }
+  
 };
 
 const Books = async () => {
