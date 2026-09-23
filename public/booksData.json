@@ -1,0 +1,1602 @@
+[
+  {
+    "bookId": 1,
+    "bookName": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Great%20Gatsby%20F.%20Scott%20Fitzgerald%20book%20cover",
+    "review": "A timeless masterpiece that delves into the decadence and disillusionment of the Jazz Age. Set in the Roaring Twenties, the novel unveils the enigmatic Jay Gatsby's extravagant parties, masking a pursuit of lost love.",
+    "totalPages": 192,
+    "rating": 4.5,
+    "category": "Classic",
+    "tags": [
+      "Fiction",
+      "Romance"
+    ],
+    "publisher": "Scribner",
+    "yearOfPublishing": 1925
+  },
+  {
+    "bookId": 2,
+    "bookName": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "image": "https://tse1.mm.bing.net/th?q=To%20Kill%20a%20Mockingbird%20Harper%20Lee%20book%20cover",
+    "review": "Set in the small Southern town of Maycomb, Alabama, the story follows Scout Finch, whose father Atticus defends a Black man falsely accused of raping a white woman, exploring themes of racial injustice and innocence.",
+    "totalPages": 281,
+    "rating": 4.8,
+    "category": "Fiction",
+    "tags": [
+      "Drama",
+      "Social Justice"
+    ],
+    "publisher": "J.B. Lippincott & Co.",
+    "yearOfPublishing": 1960
+  },
+  {
+    "bookId": 3,
+    "bookName": "1984",
+    "author": "George Orwell",
+    "image": "https://tse1.mm.bing.net/th?q=1984%20George%20Orwell%20book%20cover",
+    "review": "A startlingly terrifying vision of a totalitarian future where Big Brother monitors every move, and thoughtcrime is the ultimate sin. Winston Smith tries to break free from totalitarian control.",
+    "totalPages": 328,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Dystopian",
+      "Political"
+    ],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1949
+  },
+  {
+    "bookId": 4,
+    "bookName": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Catcher%20in%20the%20Rye%20J.D.%20Salinger%20book%20cover",
+    "review": "The novel details two days in the life of sixteen-year-old Holden Caulfield after he has been expelled from prep school, exploring alienating themes of teenage angst and isolation.",
+    "totalPages": 224,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": [
+      "Young Adult",
+      "Identity"
+    ],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 1951
+  },
+  {
+    "bookId": 5,
+    "bookName": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "image": "https://tse1.mm.bing.net/th?q=Pride%20and%20Prejudice%20Jane%20Austen%20book%20cover",
+    "review": "A classic romantic novel following Elizabeth Bennet as she deals with issues of manners, upbringing, morality, education, and marriage in the landed gentry of early 19th-century England.",
+    "totalPages": 279,
+    "rating": 4.7,
+    "category": "Classic",
+    "tags": [
+      "Romance",
+      "Satire"
+    ],
+    "publisher": "T. Egerton, Whitehall",
+    "yearOfPublishing": 1813
+  },
+  {
+    "bookId": 6,
+    "bookName": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Hobbit%20J.R.R.%20Tolkien%20book%20cover",
+    "review": "Bilbo Baggins, a comfortable home-loving hobbit, is whisked away on a quest by the wizard Gandalf and thirteen dwarves to reclaim their mountain home from the dragon Smaug.",
+    "totalPages": 310,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": [
+      "Adventure",
+      "Epic"
+    ],
+    "publisher": "Allen & Unwin",
+    "yearOfPublishing": 1937
+  },
+  {
+    "bookId": 7,
+    "bookName": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "image": "https://tse1.mm.bing.net/th?q=Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone%20J.K.%20Rowling%20book%20cover",
+    "review": "An orphaned boy discovers he is a wizard on his eleventh birthday and is invited to attend Hogwarts School of Witchcraft and Wizardry, starting a grand magical journey.",
+    "totalPages": 309,
+    "rating": 4.8,
+    "category": "Fantasy",
+    "tags": [
+      "Magic",
+      "Young Adult"
+    ],
+    "publisher": "Bloomsbury",
+    "yearOfPublishing": 1997
+  },
+  {
+    "bookId": 8,
+    "bookName": "The Alchemist",
+    "author": "Paulo Coelho",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Alchemist%20Paulo%20Coelho%20book%20cover",
+    "review": "Santiago, an Andalusian shepherd boy, dreams of traveling the world in search of a worldly treasure. His quest leads him to riches far different—and far more satisfying—than he ever imagined.",
+    "totalPages": 177,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Philosophical",
+      "Adventure"
+    ],
+    "publisher": "HarperCollins",
+    "yearOfPublishing": 1988
+  },
+  {
+    "bookId": 9,
+    "bookName": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Girl%20on%20the%20Train%20Paula%20Hawkins%20book%20cover",
+    "review": "A psychological thriller narrated by three different women about alcohol addiction and relationships, centering on a woman who witnesses a shocking event from her commute train.",
+    "totalPages": 316,
+    "rating": 4.2,
+    "category": "Mystery",
+    "tags": [
+      "Suspense",
+      "Psychological"
+    ],
+    "publisher": "Riverhead Books",
+    "yearOfPublishing": 2015
+  },
+  {
+    "bookId": 10,
+    "bookName": "Brave New World",
+    "author": "Aldous Huxley",
+    "image": "https://tse1.mm.bing.net/th?q=Brave%20New%20World%20Aldous%20Huxley%20book%20cover",
+    "review": "A chilling vision of a future society shaped by genetic engineering, brainwashing, and consumerism, raising profound questions about freedom and individuality.",
+    "totalPages": 288,
+    "rating": 4.4,
+    "category": "Sci-Fi",
+    "tags": [
+      "Dystopian",
+      "Philosophy"
+    ],
+    "publisher": "Chatto & Windus",
+    "yearOfPublishing": 1932
+  },
+  {
+    "bookId": 11,
+    "bookName": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "image": "https://tse1.mm.bing.net/th?q=Fahrenheit%20451%20Ray%20Bradbury%20book%20cover",
+    "review": "In a futuristic American society where books are outlawed and firemen burn any that are found, Guy Montag begins to question his role as a fireman and the regime's control.",
+    "totalPages": 249,
+    "rating": 4.5,
+    "category": "Sci-Fi",
+    "tags": [
+      "Dystopian",
+      "Censorship"
+    ],
+    "publisher": "Ballantine Books",
+    "yearOfPublishing": 1953
+  },
+  {
+    "bookId": 12,
+    "bookName": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "image": "https://tse1.mm.bing.net/th?q=Crime%20and%20Punishment%20Fyodor%20Dostoevsky%20book%20cover",
+    "review": "Raskolnikov, an impoverished ex-student in Saint Petersburg, formulates a plan to kill an unscrupulous pawnbroker to test a theory about human extraordinary status.",
+    "totalPages": 430,
+    "rating": 4.7,
+    "category": "Classic",
+    "tags": [
+      "Psychological",
+      "Philosophical"
+    ],
+    "publisher": "The Russian Messenger",
+    "yearOfPublishing": 1866
+  },
+  {
+    "bookId": 13,
+    "bookName": "The Lord of the Rings: The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Lord%20of%20the%20Rings%3A%20The%20Fellowship%20of%20the%20Ring%20J.R.R.%20Tolkien%20book%20cover",
+    "review": "Young hobbit Frodo Baggins inherits a ring of immense power and must travel across Middle-earth to destroy it before the Dark Lord Sauron reclaims it.",
+    "totalPages": 423,
+    "rating": 4.9,
+    "category": "Fantasy",
+    "tags": [
+      "Epic",
+      "Adventure"
+    ],
+    "publisher": "Allen & Unwin",
+    "yearOfPublishing": 1954
+  },
+  {
+    "bookId": 14,
+    "bookName": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Kite%20Runner%20Khaled%20Hosseini%20book%20cover",
+    "review": "An unforgettable story of friendship, betrayal, and redemption set against the turbulent backdrop of Afghanistan's history over several decades.",
+    "totalPages": 371,
+    "rating": 4.8,
+    "category": "Drama",
+    "tags": [
+      "Friendship",
+      "Historical"
+    ],
+    "publisher": "Riverhead Books",
+    "yearOfPublishing": 2003
+  },
+  {
+    "bookId": 15,
+    "bookName": "The Book Thief",
+    "author": "Markus Zusak",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Book%20Thief%20Markus%20Zusak%20book%20cover",
+    "review": "Narrated by Death, this haunting novel follows young Liesel Meminger living in Nazi Germany, who finds solace by stealing books and sharing them with others.",
+    "totalPages": 552,
+    "rating": 4.7,
+    "category": "Historical",
+    "tags": [
+      "WWII",
+      "Heartwarming"
+    ],
+    "publisher": "Picador",
+    "yearOfPublishing": 2005
+  },
+  {
+    "bookId": 16,
+    "bookName": "Animal Farm",
+    "author": "George Orwell",
+    "image": "https://tse1.mm.bing.net/th?q=Animal%20Farm%20George%20Orwell%20book%20cover",
+    "review": "A satirical allegory where farm animals overthrow their human master, only to establish their own tyrannical hierarchy led by pigs.",
+    "totalPages": 112,
+    "rating": 4.6,
+    "category": "Classic",
+    "tags": [
+      "Satire",
+      "Political"
+    ],
+    "publisher": "Secker & Warburg",
+    "yearOfPublishing": 1945
+  },
+  {
+    "bookId": 17,
+    "bookName": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "image": "https://tse1.mm.bing.net/th?q=Jane%20Eyre%20Charlotte%20Bront%C3%AB%20book%20cover",
+    "review": "An orphaned young woman overcomes a difficult childhood to become a governess at Thornfield Hall, where she falls in love with her mysterious employer, Mr. Rochester.",
+    "totalPages": 500,
+    "rating": 4.6,
+    "category": "Classic",
+    "tags": [
+      "Gothic",
+      "Romance"
+    ],
+    "publisher": "Smith, Elder & Co.",
+    "yearOfPublishing": 1847
+  },
+  {
+    "bookId": 18,
+    "bookName": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "image": "https://tse1.mm.bing.net/th?q=Sapiens%3A%20A%20Brief%20History%20of%20Humankind%20Yuval%20Noah%20Harari%20book%20cover",
+    "review": "An engaging journey through human history, exploring how Homo sapiens came to dominate the Earth through cognitive, agricultural, and scientific revolutions.",
+    "totalPages": 443,
+    "rating": 4.7,
+    "category": "Non-Fiction",
+    "tags": [
+      "History",
+      "Anthropology"
+    ],
+    "publisher": "Harvill Secker",
+    "yearOfPublishing": 2011
+  },
+  {
+    "bookId": 19,
+    "bookName": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Hunger%20Games%20Suzanne%20Collins%20book%20cover",
+    "review": "In a dystopian post-apocalyptic nation, Katniss Everdeen volunteers to take her sister's place in a televised fight-to-the-death tournament.",
+    "totalPages": 374,
+    "rating": 4.7,
+    "category": "Sci-Fi",
+    "tags": [
+      "Dystopian",
+      "Action"
+    ],
+    "publisher": "Scholastic",
+    "yearOfPublishing": 2008
+  },
+  {
+    "bookId": 20,
+    "bookName": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Da%20Vinci%20Code%20Dan%20Brown%20book%20cover",
+    "review": "Symbologist Robert Langdon investigates a murder in the Louvre and uncovers a sinister conspiracy that could shake the foundations of Christianity.",
+    "totalPages": 489,
+    "rating": 4.3,
+    "category": "Thriller",
+    "tags": [
+      "Mystery",
+      "Conspiracy"
+    ],
+    "publisher": "Doubleday",
+    "yearOfPublishing": 2003
+  },
+  {
+    "bookId": 21,
+    "bookName": "Atomic Habits",
+    "author": "James Clear",
+    "image": "https://tse1.mm.bing.net/th?q=Atomic%20Habits%20James%20Clear%20book%20cover",
+    "review": "A practical guide on how small 1% daily changes can compound into extraordinary personal and professional results over time.",
+    "totalPages": 320,
+    "rating": 4.9,
+    "category": "Self-Help",
+    "tags": [
+      "Productivity",
+      "Psychology"
+    ],
+    "publisher": "Avery",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 22,
+    "bookName": "Dune",
+    "author": "Frank Herbert",
+    "image": "https://tse1.mm.bing.net/th?q=Dune%20Frank%20Herbert%20book%20cover",
+    "review": "Set on the desert planet Arrakis, young Paul Atreides navigates political intrigue, environmental challenges, and prophetic destiny over the spice Melange.",
+    "totalPages": 412,
+    "rating": 4.7,
+    "category": "Sci-Fi",
+    "tags": [
+      "Space Opera",
+      "Epic"
+    ],
+    "publisher": "Chilton Books",
+    "yearOfPublishing": 1965
+  },
+  {
+    "bookId": 23,
+    "bookName": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "image": "https://tse1.mm.bing.net/th?q=Wuthering%20Heights%20Emily%20Bront%C3%AB%20book%20cover",
+    "review": "A passionate and tragic tale of the intense, turbulent love and revenge between Heathcliff and Catherine Earnshaw on the Yorkshire moors.",
+    "totalPages": 416,
+    "rating": 4.2,
+    "category": "Classic",
+    "tags": [
+      "Gothic",
+      "Tragedy"
+    ],
+    "publisher": "Thomas Cautley Newby",
+    "yearOfPublishing": 1847
+  },
+  {
+    "bookId": 24,
+    "bookName": "The Shining",
+    "author": "Stephen King",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Shining%20Stephen%20King%20book%20cover",
+    "review": "Jack Torrance accepts a winter caretaker position at the isolated Overlook Hotel, where supernatural forces gradually push him into madness.",
+    "totalPages": 447,
+    "rating": 4.5,
+    "category": "Horror",
+    "tags": [
+      "Supernatural",
+      "Thriller"
+    ],
+    "publisher": "Doubleday",
+    "yearOfPublishing": 1977
+  },
+  {
+    "bookId": 25,
+    "bookName": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "author": "C.S. Lewis",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Chronicles%20of%20Narnia%3A%20The%20Lion%2C%20the%20Witch%20and%20the%20Wardrobe%20C.S.%20Lewis%20book%20cover",
+    "review": "Four siblings step through a magical wardrobe into the enchanted land of Narnia, trapped in an eternal winter under the spell of the White Witch.",
+    "totalPages": 208,
+    "rating": 4.7,
+    "category": "Fantasy",
+    "tags": [
+      "Adventure",
+      "Children"
+    ],
+    "publisher": "Geoffrey Bles",
+    "yearOfPublishing": 1950
+  },
+  {
+    "bookId": 26,
+    "bookName": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Picture%20of%20Dorian%20Gray%20Oscar%20Wilde%20book%20cover",
+    "review": "A young man remains eternally youthful while his painted portrait ages and reflects the moral corruption of his hedonistic lifestyle.",
+    "totalPages": 254,
+    "rating": 4.5,
+    "category": "Classic",
+    "tags": [
+      "Gothic",
+      "Philosophical"
+    ],
+    "publisher": "Lippincott's Monthly Magazine",
+    "yearOfPublishing": 1890
+  },
+  {
+    "bookId": 27,
+    "bookName": "The Fault in Our Stars",
+    "author": "John Green",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Fault%20in%20Our%20Stars%20John%20Green%20book%20cover",
+    "review": "Two teenage cancer patients meet at a support group and embark on an emotional, life-affirming journey of love and self-discovery.",
+    "totalPages": 313,
+    "rating": 4.4,
+    "category": "Young Adult",
+    "tags": [
+      "Romance",
+      "Drama"
+    ],
+    "publisher": "Dutton Books",
+    "yearOfPublishing": 2012
+  },
+  {
+    "bookId": 28,
+    "bookName": "The Martian",
+    "author": "Andy Weir",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Martian%20Andy%20Weir%20book%20cover",
+    "review": "Astronaut Mark Watney is stranded alone on Mars and must rely on his scientific ingenuity and humor to survive until help can arrive.",
+    "totalPages": 369,
+    "rating": 4.6,
+    "category": "Sci-Fi",
+    "tags": [
+      "Survival",
+      "Space"
+    ],
+    "publisher": "Crown Publishing",
+    "yearOfPublishing": 2011
+  },
+  {
+    "bookId": 29,
+    "bookName": "Memoirs of a Geisha",
+    "author": "Arthur Golden",
+    "image": "https://tse1.mm.bing.net/th?q=Memoirs%20of%20a%20Geisha%20Arthur%20Golden%20book%20cover",
+    "review": "A captivating story revealing the secret life of Sayuri, one of Japan's most celebrated geishas, navigating passion and drama during WWII.",
+    "totalPages": 434,
+    "rating": 4.4,
+    "category": "Historical",
+    "tags": [
+      "Japan",
+      "Drama"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "yearOfPublishing": 1997
+  },
+  {
+    "bookId": 30,
+    "bookName": "Life of Pi",
+    "author": "Yann Martel",
+    "image": "https://tse1.mm.bing.net/th?q=Life%20of%20Pi%20Yann%20Martel%20book%20cover",
+    "review": "After a shipwreck, a young Indian boy named Pi survives 227 days at sea stranded on a lifeboat with a Bengal tiger named Richard Parker.",
+    "totalPages": 319,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": [
+      "Adventure",
+      "Survival"
+    ],
+    "publisher": "Knopf Canada",
+    "yearOfPublishing": 2001
+  },
+  {
+    "bookId": 31,
+    "bookName": "Frankenstein",
+    "author": "Mary Shelley",
+    "image": "https://tse1.mm.bing.net/th?q=Frankenstein%20Mary%20Shelley%20book%20cover",
+    "review": "Victor Frankenstein assembles a living creature from human remains, leading to terrible consequences for both creator and creation.",
+    "totalPages": 280,
+    "rating": 4.3,
+    "category": "Horror",
+    "tags": [
+      "Sci-Fi",
+      "Classic"
+    ],
+    "publisher": "Lackington, Hughes, Harding",
+    "yearOfPublishing": 1818
+  },
+  {
+    "bookId": 32,
+    "bookName": "Dracula",
+    "author": "Bram Stoker",
+    "image": "https://tse1.mm.bing.net/th?q=Dracula%20Bram%20Stoker%20book%20cover",
+    "review": "Count Dracula attempts to move from Transylvania to England so that he may find new blood and spread the undead curse.",
+    "totalPages": 418,
+    "rating": 4.4,
+    "category": "Horror",
+    "tags": [
+      "Gothic",
+      "Vampire"
+    ],
+    "publisher": "Archibald Constable and Company",
+    "yearOfPublishing": 1897
+  },
+  {
+    "bookId": 33,
+    "bookName": "Becoming",
+    "author": "Michelle Obama",
+    "image": "https://tse1.mm.bing.net/th?q=Becoming%20Michelle%20Obama%20book%20cover",
+    "review": "An intimate memoir by former First Lady Michelle Obama, sharing her roots, her journey through law, motherhood, and her time in the White House.",
+    "totalPages": 448,
+    "rating": 4.8,
+    "category": "Biography",
+    "tags": [
+      "Memoir",
+      "Inspirational"
+    ],
+    "publisher": "Crown",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 34,
+    "bookName": "Educated",
+    "author": "Tara Westover",
+    "image": "https://tse1.mm.bing.net/th?q=Educated%20Tara%20Westover%20book%20cover",
+    "review": "A memoir about growing up isolated from society in survivalist Idaho and overcoming extreme hurdles to earn a PhD from Cambridge University.",
+    "totalPages": 334,
+    "rating": 4.7,
+    "category": "Biography",
+    "tags": [
+      "Memoir",
+      "Education"
+    ],
+    "publisher": "Random House",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 35,
+    "bookName": "The Road",
+    "author": "Cormac McCarthy",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Road%20Cormac%20McCarthy%20book%20cover",
+    "review": "A father and son walk alone through burned America, moving toward the coast in a post-apocalyptic, ash-covered world.",
+    "totalPages": 287,
+    "rating": 4.1,
+    "category": "Fiction",
+    "tags": [
+      "Post-Apocalyptic",
+      "Drama"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "yearOfPublishing": 2006
+  },
+  {
+    "bookId": 36,
+    "bookName": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Little%20Prince%20Antoine%20de%20Saint-Exup%C3%A9ry%20book%20cover",
+    "review": "A poetic tale about a young prince who visits various planets in space, addressing themes of loneliness, friendship, love, and loss.",
+    "totalPages": 96,
+    "rating": 4.8,
+    "category": "Children",
+    "tags": [
+      "Fable",
+      "Philosophy"
+    ],
+    "publisher": "Reynal & Hitchcock",
+    "yearOfPublishing": 1943
+  },
+  {
+    "bookId": 37,
+    "bookName": "Gone Girl",
+    "author": "Gillian Flynn",
+    "image": "https://tse1.mm.bing.net/th?q=Gone%20Girl%20Gillian%20Flynn%20book%20cover",
+    "review": "On their fifth wedding anniversary, Nick Dunne reports his beautiful wife Amy missing, but media pressure and secrets make him the prime suspect.",
+    "totalPages": 432,
+    "rating": 4.1,
+    "category": "Mystery",
+    "tags": [
+      "Thriller",
+      "Psychological"
+    ],
+    "publisher": "Crown Publishing Group",
+    "yearOfPublishing": 2012
+  },
+  {
+    "bookId": 38,
+    "bookName": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Seven%20Husbands%20of%20Evelyn%20Hugo%20Taylor%20Jenkins%20Reid%20book%20cover",
+    "review": "Aging Hollywood movie icon Evelyn Hugo recites her glamorous, scandalous life story to an unknown magazine reporter, Monique Grant.",
+    "totalPages": 389,
+    "rating": 4.6,
+    "category": "Historical",
+    "tags": [
+      "Romance",
+      "Hollywood"
+    ],
+    "publisher": "Atria Books",
+    "yearOfPublishing": 2017
+  },
+  {
+    "bookId": 39,
+    "bookName": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "image": "https://tse1.mm.bing.net/th?q=Where%20the%20Crawdads%20Sing%20Delia%20Owens%20book%20cover",
+    "review": "For years, rumors of the 'Marsh Girl' haunted Barkley Cove. When handsome Chase Andrews is found dead, the locals suspect Kya Clark.",
+    "totalPages": 384,
+    "rating": 4.5,
+    "category": "Fiction",
+    "tags": [
+      "Mystery",
+      "Nature"
+    ],
+    "publisher": "G.P. Putnam's Sons",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 40,
+    "bookName": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Silent%20Patient%20Alex%20Michaelides%20book%20cover",
+    "review": "Alicia Berenson's life seems perfect, but after shooting her husband five times, she never speaks another word. A psychotherapist tries to uncover why.",
+    "totalPages": 325,
+    "rating": 4.2,
+    "category": "Mystery",
+    "tags": [
+      "Psychological",
+      "Thriller"
+    ],
+    "publisher": "Celadon Books",
+    "yearOfPublishing": 2019
+  },
+  {
+    "bookId": 41,
+    "bookName": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "image": "https://tse1.mm.bing.net/th?q=A%20Tale%20of%20Two%20Cities%20Charles%20Dickens%20book%20cover",
+    "review": "Set in London and Paris before and during the French Revolution, depicting the plight of the French peasantry and the brutal Reign of Terror.",
+    "totalPages": 341,
+    "rating": 4.3,
+    "category": "Classic",
+    "tags": [
+      "Historical",
+      "Drama"
+    ],
+    "publisher": "Chapman & Hall",
+    "yearOfPublishing": 1859
+  },
+  {
+    "bookId": 42,
+    "bookName": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "image": "https://tse1.mm.bing.net/th?q=Slaughterhouse-Five%20Kurt%20Vonnegut%20book%20cover",
+    "review": "Billy Pilgrim becomes unstuck in time, experiencing his life non-linearly including his survival of the firebombing of Dresden during WWII.",
+    "totalPages": 275,
+    "rating": 4.2,
+    "category": "Sci-Fi",
+    "tags": [
+      "Satire",
+      "War"
+    ],
+    "publisher": "Delacorte",
+    "yearOfPublishing": 1969
+  },
+  {
+    "bookId": 43,
+    "bookName": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Grapes%20of%20Wrath%20John%20Steinbeck%20book%20cover",
+    "review": "Follows the Joad family as they travel from the Oklahoma Dust Bowl to California during the Great Depression in search of a better life.",
+    "totalPages": 464,
+    "rating": 4.3,
+    "category": "Classic",
+    "tags": [
+      "Historical",
+      "Social"
+    ],
+    "publisher": "The Viking Press",
+    "yearOfPublishing": 1939
+  },
+  {
+    "bookId": 44,
+    "bookName": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "image": "https://tse1.mm.bing.net/th?q=One%20Hundred%20Years%20of%20Solitude%20Gabriel%20Garc%C3%ADa%20M%C3%A1rquez%20book%20cover",
+    "review": "The multi-generational story of the Buendía family, whose patriarch founded the town of Macondo, blended with magical realism.",
+    "totalPages": 417,
+    "rating": 4.5,
+    "category": "Classic",
+    "tags": [
+      "Magical Realism",
+      "Family"
+    ],
+    "publisher": "Editorial Sudamericana",
+    "yearOfPublishing": 1967
+  },
+  {
+    "bookId": 45,
+    "bookName": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "image": "https://tse1.mm.bing.net/th?q=Thinking%2C%20Fast%20and%20Slow%20Daniel%20Kahneman%20book%20cover",
+    "review": "Explores two modes of thought: System 1 (fast, emotional) and System 2 (slow, logical), shaping our judgments and decision-making.",
+    "totalPages": 499,
+    "rating": 4.6,
+    "category": "Non-Fiction",
+    "tags": [
+      "Psychology",
+      "Science"
+    ],
+    "publisher": "Farrar, Straus and Giroux",
+    "yearOfPublishing": 2011
+  },
+  {
+    "bookId": 46,
+    "bookName": "The Giving Tree",
+    "author": "Shel Silverstein",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Giving%20Tree%20Shel%20Silverstein%20book%20cover",
+    "review": "A poignant picture book about the lifelong relationship between a young boy and a loving, selfless apple tree.",
+    "totalPages": 64,
+    "rating": 4.7,
+    "category": "Children",
+    "tags": [
+      "Poetry",
+      "Morality"
+    ],
+    "publisher": "Harper & Row",
+    "yearOfPublishing": 1964
+  },
+  {
+    "bookId": 47,
+    "bookName": "Lord of the Flies",
+    "author": "William Golding",
+    "image": "https://tse1.mm.bing.net/th?q=Lord%20of%20the%20Flies%20William%20Golding%20book%20cover",
+    "review": "A group of British schoolboys stranded on an uninhabited island attempt to govern themselves, with disastrous and savage results.",
+    "totalPages": 224,
+    "rating": 4.0,
+    "category": "Classic",
+    "tags": [
+      "Allegory",
+      "Psychological"
+    ],
+    "publisher": "Faber and Faber",
+    "yearOfPublishing": 1954
+  },
+  {
+    "bookId": 48,
+    "bookName": "Catch-22",
+    "author": "Joseph Heller",
+    "image": "https://tse1.mm.bing.net/th?q=Catch-22%20Joseph%20Heller%20book%20cover",
+    "review": "Set during WWII, Captain John Yossarian tries to stay alive while dealing with absurd bureaucratic rules known as Catch-22.",
+    "totalPages": 453,
+    "rating": 4.1,
+    "category": "Classic",
+    "tags": [
+      "Satire",
+      "War"
+    ],
+    "publisher": "Simon & Schuster",
+    "yearOfPublishing": 1961
+  },
+  {
+    "bookId": 49,
+    "bookName": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "image": "https://tse1.mm.bing.net/th?q=A%20Game%20of%20Thrones%20George%20R.R.%20Martin%20book%20cover",
+    "review": "Noble families fight for control over the mythical land of Westeros, unaware of ancient threats awakening beyond the northern Wall.",
+    "totalPages": 694,
+    "rating": 4.8,
+    "category": "Fantasy",
+    "tags": [
+      "Politics",
+      "Epic"
+    ],
+    "publisher": "Bantam Spectra",
+    "yearOfPublishing": 1996
+  },
+  {
+    "bookId": 50,
+    "bookName": "Ready Player One",
+    "author": "Ernest Cline",
+    "image": "https://tse1.mm.bing.net/th?q=Ready%20Player%20One%20Ernest%20Cline%20book%20cover",
+    "review": "Wade Watts competes in a virtual reality Easter egg hunt created by a pop-culture-obsessed billionaire, with control of the virtual world at stake.",
+    "totalPages": 374,
+    "rating": 4.5,
+    "category": "Sci-Fi",
+    "tags": [
+      "Gaming",
+      "Virtual Reality"
+    ],
+    "publisher": "Crown Publishing",
+    "yearOfPublishing": 2011
+  },
+  {
+    "bookId": 51,
+    "bookName": "The Outsiders",
+    "author": "S.E. Hinton",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Outsiders%20S.E.%20Hinton%20book%20cover",
+    "review": "The rivalry between two teenage gangs, the working-class Greasers and the upper-class Socs, comes to a tragic climax.",
+    "totalPages": 192,
+    "rating": 4.6,
+    "category": "Young Adult",
+    "tags": [
+      "Coming of Age",
+      "Drama"
+    ],
+    "publisher": "Viking Press",
+    "yearOfPublishing": 1967
+  },
+  {
+    "bookId": 52,
+    "bookName": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Old%20Man%20and%20the%20Sea%20Ernest%20Hemingway%20book%20cover",
+    "review": "An aging Cuban fisherman named Santiago engages in an epic battle to catch a giant marlin far out in the Gulf Stream.",
+    "totalPages": 127,
+    "rating": 4.2,
+    "category": "Classic",
+    "tags": [
+      "Short Novel",
+      "Perseverance"
+    ],
+    "publisher": "Charles Scribner's Sons",
+    "yearOfPublishing": 1952
+  },
+  {
+    "bookId": 53,
+    "bookName": "The Metamorphosis",
+    "author": "Franz Kafka",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Metamorphosis%20Franz%20Kafka%20book%20cover",
+    "review": "Gregor Samsa wakes up one morning to find himself transformed into a monstrous insect-like creature, dealing with family reaction and isolation.",
+    "totalPages": 90,
+    "rating": 4.2,
+    "category": "Classic",
+    "tags": [
+      "Absurdist",
+      "Surrealism"
+    ],
+    "publisher": "Kurt Wolff Verlag",
+    "yearOfPublishing": 1915
+  },
+  {
+    "bookId": 54,
+    "bookName": "It",
+    "author": "Stephen King",
+    "image": "https://tse1.mm.bing.net/th?q=It%20Stephen%20King%20book%20cover",
+    "review": "Seven children in Derry, Maine, fight an evil shape-shifting entity that takes the form of Pennywise the Dancing Clown.",
+    "totalPages": 1138,
+    "rating": 4.5,
+    "category": "Horror",
+    "tags": [
+      "Monster",
+      "Friendship"
+    ],
+    "publisher": "Viking",
+    "yearOfPublishing": 1986
+  },
+  {
+    "bookId": 55,
+    "bookName": "Anne of Green Gables",
+    "author": "L.M. Montgomery",
+    "image": "https://tse1.mm.bing.net/th?q=Anne%20of%20Green%20Gables%20L.M.%20Montgomery%20book%20cover",
+    "review": "An imaginative red-headed orphan girl is mistakenly sent to live with an elderly brother and sister on Prince Edward Island.",
+    "totalPages": 320,
+    "rating": 4.7,
+    "category": "Children",
+    "tags": [
+      "Classic",
+      "Family"
+    ],
+    "publisher": "L.C. Page & Co.",
+    "yearOfPublishing": 1908
+  },
+  {
+    "bookId": 56,
+    "bookName": "Persepolis",
+    "author": "Marjane Satrapi",
+    "image": "https://tse1.mm.bing.net/th?q=Persepolis%20Marjane%20Satrapi%20book%20cover",
+    "review": "A graphic memoir illustrating the author's childhood in Iran during and after the Islamic Revolution.",
+    "totalPages": 153,
+    "rating": 4.7,
+    "category": "Graphic Novel",
+    "tags": [
+      "Memoir",
+      "History"
+    ],
+    "publisher": "L'Association",
+    "yearOfPublishing": 2000
+  },
+  {
+    "bookId": 57,
+    "bookName": "A Clockwork Orange",
+    "author": "Anthony Burgess",
+    "image": "https://tse1.mm.bing.net/th?q=A%20Clockwork%20Orange%20Anthony%20Burgess%20book%20cover",
+    "review": "In a futuristic society, teenage delinquent Alex undergoes psychological conditioning designed to eliminate criminal tendencies.",
+    "totalPages": 192,
+    "rating": 4.0,
+    "category": "Sci-Fi",
+    "tags": [
+      "Dystopian",
+      "Psychological"
+    ],
+    "publisher": "William Heinemann",
+    "yearOfPublishing": 1962
+  },
+  {
+    "bookId": 58,
+    "bookName": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Night%20Circus%20Erin%20Morgenstern%20book%20cover",
+    "review": "Two young magicians are pitted against each other in a duel of magic inside Le Cirque des Rêves, but unexpectedly fall in love.",
+    "totalPages": 387,
+    "rating": 4.4,
+    "category": "Fantasy",
+    "tags": [
+      "Magic",
+      "Romance"
+    ],
+    "publisher": "Doubleday",
+    "yearOfPublishing": 2011
+  },
+  {
+    "bookId": 59,
+    "bookName": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "image": "https://tse1.mm.bing.net/th?q=Guns%2C%20Germs%2C%20and%20Steel%20Jared%20Diamond%20book%20cover",
+    "review": "An examination of environmental and geographical factors that allowed Eurasian civilizations to conquer other parts of the globe.",
+    "totalPages": 480,
+    "rating": 4.4,
+    "category": "Non-Fiction",
+    "tags": [
+      "History",
+      "Anthropology"
+    ],
+    "publisher": "W. W. Norton & Company",
+    "yearOfPublishing": 1997
+  },
+  {
+    "bookId": 60,
+    "bookName": "The Color Purple",
+    "author": "Alice Walker",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Color%20Purple%20Alice%20Walker%20book%20cover",
+    "review": "An epistolary novel documenting the traumatic life and uplifting resilience of Celie, an African American woman living in rural Georgia.",
+    "totalPages": 295,
+    "rating": 4.6,
+    "category": "Fiction",
+    "tags": [
+      "Historical",
+      "Feminism"
+    ],
+    "publisher": "Harcourt Brace Jovanovich",
+    "yearOfPublishing": 1982
+  },
+  {
+    "bookId": 61,
+    "bookName": "Les Misérables",
+    "author": "Victor Hugo",
+    "image": "https://tse1.mm.bing.net/th?q=Les%20Mis%C3%A9rables%20Victor%20Hugo%20book%20cover",
+    "review": "Ex-convict Jean Valjean seeks redemption over two decades while being relentlessly pursued by police inspector Javert in 19th-century France.",
+    "totalPages": 1462,
+    "rating": 4.7,
+    "category": "Classic",
+    "tags": [
+      "Historical",
+      "Justice"
+    ],
+    "publisher": "A. Lacroix, Verboeckhoven & Cie",
+    "yearOfPublishing": 1862
+  },
+  {
+    "bookId": 62,
+    "bookName": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Count%20of%20Monte%20Cristo%20Alexandre%20Dumas%20book%20cover",
+    "review": "Falsely accused of treason, Edmond Dantès escapes prison after 14 years and acquires a fortune to seek revenge on those who betrayed him.",
+    "totalPages": 1276,
+    "rating": 4.8,
+    "category": "Classic",
+    "tags": [
+      "Revenge",
+      "Adventure"
+    ],
+    "publisher": "Petution",
+    "yearOfPublishing": 1844
+  },
+  {
+    "bookId": 63,
+    "bookName": "Mistborn: The Final Empire",
+    "author": "Brandon Sanderson",
+    "image": "https://tse1.mm.bing.net/th?q=Mistborn%3A%20The%20Final%20Empire%20Brandon%20Sanderson%20book%20cover",
+    "review": "In a world covered in ash, a young street thief named Vin learns she possesses rare magical abilities and joins a rebellion to overthrow an immortal ruler.",
+    "totalPages": 541,
+    "rating": 4.8,
+    "category": "Fantasy",
+    "tags": [
+      "Magic",
+      "Heist"
+    ],
+    "publisher": "Tor Books",
+    "yearOfPublishing": 2006
+  },
+  {
+    "bookId": 64,
+    "bookName": "Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "image": "https://tse1.mm.bing.net/th?q=Name%20of%20the%20Wind%20Patrick%20Rothfuss%20book%20cover",
+    "review": "The legendary Kvothe recounts his life story, from growing up in a troupe of traveling performers to studying arcana at a prestigious university.",
+    "totalPages": 662,
+    "rating": 4.7,
+    "category": "Fantasy",
+    "tags": [
+      "Epic",
+      "Magic"
+    ],
+    "publisher": "DAW Books",
+    "yearOfPublishing": 2007
+  },
+  {
+    "bookId": 65,
+    "bookName": "The Secret History",
+    "author": "Donna Tartt",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Secret%20History%20Donna%20Tartt%20book%20cover",
+    "review": "A group of six elite classics students at a Vermont college gradually cross moral boundaries, leading to murder.",
+    "totalPages": 559,
+    "rating": 4.3,
+    "category": "Mystery",
+    "tags": [
+      "Dark Academia",
+      "Drama"
+    ],
+    "publisher": "Alfred A. Knopf",
+    "yearOfPublishing": 1992
+  },
+  {
+    "bookId": 66,
+    "bookName": "Station Eleven",
+    "author": "Emily St. John Mandel",
+    "image": "https://tse1.mm.bing.net/th?q=Station%20Eleven%20Emily%20St.%20John%20Mandel%20book%20cover",
+    "review": "Survivors of a devastating flu pandemic travel through the Great Lakes region as a theater troupe, preserving art and humanity.",
+    "totalPages": 333,
+    "rating": 4.3,
+    "category": "Sci-Fi",
+    "tags": [
+      "Post-Apocalyptic",
+      "Art"
+    ],
+    "publisher": "Knopf",
+    "yearOfPublishing": 2014
+  },
+  {
+    "bookId": 67,
+    "bookName": "All the Light We Cannot See",
+    "author": "Anthony Doerr",
+    "image": "https://tse1.mm.bing.net/th?q=All%20the%20Light%20We%20Cannot%20See%20Anthony%20Doerr%20book%20cover",
+    "review": "The paths of a blind French girl and a German orphan boy collide in occupied France as both try to survive the devastation of World War II.",
+    "totalPages": 531,
+    "rating": 4.7,
+    "category": "Historical",
+    "tags": [
+      "WWII",
+      "Inspirational"
+    ],
+    "publisher": "Scribner",
+    "yearOfPublishing": 2014
+  },
+  {
+    "bookId": 68,
+    "bookName": "The Three-Body Problem",
+    "author": "Cixin Liu",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Three-Body%20Problem%20Cixin%20Liu%20book%20cover",
+    "review": "China's Cultural Revolution leads a secret military project to send signals into space, establishing contact with an alien civilization preparing to invade Earth.",
+    "totalPages": 302,
+    "rating": 4.4,
+    "category": "Sci-Fi",
+    "tags": [
+      "Aliens",
+      "Physics"
+    ],
+    "publisher": "Chongqing Publishing Group",
+    "yearOfPublishing": 2008
+  },
+  {
+    "bookId": 69,
+    "bookName": "The Joy Luck Club",
+    "author": "Amy Tan",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Joy%20Luck%20Club%20Amy%20Tan%20book%20cover",
+    "review": "Explores the relationships and cultural divide between four Chinese immigrant mothers in San Francisco and their American-born daughters.",
+    "totalPages": 288,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": [
+      "Family",
+      "Culture"
+    ],
+    "publisher": "G.P. Putnam's Sons",
+    "yearOfPublishing": 1989
+  },
+  {
+    "bookId": 70,
+    "bookName": "Ender's Game",
+    "author": "Orson Scott Card",
+    "image": "https://tse1.mm.bing.net/th?q=Ender%27s%20Game%20Orson%20Scott%20Card%20book%20cover",
+    "review": "Young genius Ender Wiggin is recruited into an elite military academy in space to prepare for a future alien invasion.",
+    "totalPages": 324,
+    "rating": 4.6,
+    "category": "Sci-Fi",
+    "tags": [
+      "Military",
+      "Young Adult"
+    ],
+    "publisher": "Tor Books",
+    "yearOfPublishing": 1985
+  },
+  {
+    "bookId": 71,
+    "bookName": "Man's Search for Meaning",
+    "author": "Viktor E. Frankl",
+    "image": "https://tse1.mm.bing.net/th?q=Man%27s%20Search%20for%20Meaning%20Viktor%20E.%20Frankl%20book%20cover",
+    "review": "Psychiatrist Viktor Frankl chronicles his experiences in Nazi concentration camps and introduces logotherapy—finding purpose in suffering.",
+    "totalPages": 165,
+    "rating": 4.8,
+    "category": "Non-Fiction",
+    "tags": [
+      "Psychology",
+      "Philosophy"
+    ],
+    "publisher": "Verlag Jugend und Volk",
+    "yearOfPublishing": 1946
+  },
+  {
+    "bookId": 72,
+    "bookName": "Quiet: The Power of Introverts",
+    "author": "Susan Cain",
+    "image": "https://tse1.mm.bing.net/th?q=Quiet%3A%20The%20Power%20of%20Introverts%20Susan%20Cain%20book%20cover",
+    "review": "Demonstrates how Western culture undervalues introverts and shows how much society loses by underappreciating quieter individuals.",
+    "totalPages": 368,
+    "rating": 4.5,
+    "category": "Non-Fiction",
+    "tags": [
+      "Psychology",
+      "Self-Improvement"
+    ],
+    "publisher": "Crown Publishing",
+    "yearOfPublishing": 2012
+  },
+  {
+    "bookId": 73,
+    "bookName": "Circe",
+    "author": "Madeline Miller",
+    "image": "https://tse1.mm.bing.net/th?q=Circe%20Madeline%20Miller%20book%20cover",
+    "review": "A retelling of Greek mythology focusing on Circe, the banished daughter of Helios, who transforms herself from a weak nymph into a formidable witch.",
+    "totalPages": 393,
+    "rating": 4.6,
+    "category": "Fantasy",
+    "tags": [
+      "Mythology",
+      "Feminism"
+    ],
+    "publisher": "Little, Brown and Company",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": 74,
+    "bookName": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Song%20of%20Achilles%20Madeline%20Miller%20book%20cover",
+    "review": "A reimagining of Homer's Iliad told from the perspective of Patroclus, highlighting his deep bond with the Greek hero Achilles.",
+    "totalPages": 378,
+    "rating": 4.7,
+    "category": "Historical",
+    "tags": [
+      "Mythology",
+      "Romance"
+    ],
+    "publisher": "Bloomsbury",
+    "yearOfPublishing": 2011
+  },
+  {
+    "bookId": 75,
+    "bookName": "Project Hail Mary",
+    "author": "Andy Weir",
+    "image": "https://tse1.mm.bing.net/th?q=Project%20Hail%20Mary%20Andy%20Weir%20book%20cover",
+    "review": "A lone astronaut wakes up with amnesia on a mission across space to save humanity from an extinction-level solar phenomenon.",
+    "totalPages": 496,
+    "rating": 4.8,
+    "category": "Sci-Fi",
+    "tags": [
+      "Space",
+      "Humor"
+    ],
+    "publisher": "Ballantine Books",
+    "yearOfPublishing": 2021
+  },
+  {
+    "bookId": 76,
+    "bookName": "The Midnight Library",
+    "author": "Matt Haig",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Midnight%20Library%20Matt%20Haig%20book%20cover",
+    "review": "Between life and death there is a library where Nora Seed can try out all the alternative lives she could have lived if she made different choices.",
+    "totalPages": 304,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": [
+      "Fantasy",
+      "Philosophy"
+    ],
+    "publisher": "Viking",
+    "yearOfPublishing": 2020
+  },
+  {
+    "bookId": 77,
+    "bookName": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "image": "https://tse1.mm.bing.net/th?q=Klara%20and%20the%20Sun%20Kazuo%20Ishiguro%20book%20cover",
+    "review": "Told from the perspective of Klara, an Artificial Friend with outstanding observational qualities, exploring what it means to love.",
+    "totalPages": 303,
+    "rating": 4.1,
+    "category": "Sci-Fi",
+    "tags": [
+      "AI",
+      "Emotional"
+    ],
+    "publisher": "Faber and Faber",
+    "yearOfPublishing": 2021
+  },
+  {
+    "bookId": 78,
+    "bookName": "Norwegian Wood",
+    "author": "Haruki Murakami",
+    "image": "https://tse1.mm.bing.net/th?q=Norwegian%20Wood%20Haruki%20Murakami%20book%20cover",
+    "review": "Set in 1960s Tokyo, Toru Watanabe navigates nostalgia, loss, and sexual awakening after his best friend's suicide.",
+    "totalPages": 296,
+    "rating": 4.2,
+    "category": "Fiction",
+    "tags": [
+      "Romance",
+      "Melancholy"
+    ],
+    "publisher": "Kodansha",
+    "yearOfPublishing": 1987
+  },
+  {
+    "bookId": 79,
+    "bookName": "Kafka on the Shore",
+    "author": "Haruki Murakami",
+    "image": "https://tse1.mm.bing.net/th?q=Kafka%20on%20the%20Shore%20Haruki%20Murakami%20book%20cover",
+    "review": "A surreal metaphysical journey connecting a teenage runaway named Kafka Tamura with an elderly man who can talk to cats.",
+    "totalPages": 505,
+    "rating": 4.4,
+    "category": "Fiction",
+    "tags": [
+      "Magical Realism",
+      "Surreal"
+    ],
+    "publisher": "Shinchosha",
+    "yearOfPublishing": 2002
+  },
+  {
+    "bookId": 80,
+    "bookName": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zafón",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Shadow%20of%20the%20Wind%20Carlos%20Ruiz%20Zaf%C3%B3n%20book%20cover",
+    "review": "In post-war Barcelona, a young boy chooses a forgotten book from the Cemetery of Forgotten Books and gets caught in a dark mystery.",
+    "totalPages": 487,
+    "rating": 4.7,
+    "category": "Mystery",
+    "tags": [
+      "Gothic",
+      "Books"
+    ],
+    "publisher": "Editorial Planeta",
+    "yearOfPublishing": 2001
+  },
+  {
+    "bookId": 81,
+    "bookName": "Outlander",
+    "author": "Diana Gabaldon",
+    "image": "https://tse1.mm.bing.net/th?q=Outlander%20Diana%20Gabaldon%20book%20cover",
+    "review": "A WWII nurse accidentally time-travels to 1743 Scotland, where she finds romance, danger, and conflict with a Highland warrior.",
+    "totalPages": 850,
+    "rating": 4.5,
+    "category": "Romance",
+    "tags": [
+      "Time Travel",
+      "Historical"
+    ],
+    "publisher": "Delacorte Press",
+    "yearOfPublishing": 1991
+  },
+  {
+    "bookId": 82,
+    "bookName": "The God of Small Things",
+    "author": "Arundhati Roy",
+    "image": "https://tse1.mm.bing.net/th?q=The%20God%20of%20Small%20Things%20Arundhati%20Roy%20book%20cover",
+    "review": "Set in Kerala, India, the story explores how small things profoundly impact the lives and fortunes of fraternal twins Rahel and Estha.",
+    "totalPages": 340,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": [
+      "Family",
+      "India"
+    ],
+    "publisher": "IndiaInk",
+    "yearOfPublishing": 1997
+  },
+  {
+    "bookId": 83,
+    "bookName": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "image": "https://tse1.mm.bing.net/th?q=Of%20Mice%20and%20Men%20John%20Steinbeck%20book%20cover",
+    "review": "Two migrant workers, George and Lennie, pursue the American Dream of owning a farm during the Great Depression.",
+    "totalPages": 107,
+    "rating": 4.2,
+    "category": "Classic",
+    "tags": [
+      "Tragedy",
+      "Friendship"
+    ],
+    "publisher": "Covici Friede",
+    "yearOfPublishing": 1937
+  },
+  {
+    "bookId": 84,
+    "bookName": "The Poisonwood Bible",
+    "author": "Barbara Kingsolver",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Poisonwood%20Bible%20Barbara%20Kingsolver%20book%20cover",
+    "review": "An evangelical Baptist minister takes his wife and four daughters to the Belgian Congo on a mission trip in 1959.",
+    "totalPages": 546,
+    "rating": 4.4,
+    "category": "Historical",
+    "tags": [
+      "Africa",
+      "Family"
+    ],
+    "publisher": "HarperFlamingo",
+    "yearOfPublishing": 1998
+  },
+  {
+    "bookId": 85,
+    "bookName": "The Name of the Rose",
+    "author": "Umberto Eco",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Name%20of%20the%20Rose%20Umberto%20Eco%20book%20cover",
+    "review": "A Franciscan friar named William of Baskerville investigates a series of mysterious deaths at an isolated Italian monastery in 1327.",
+    "totalPages": 512,
+    "rating": 4.3,
+    "category": "Mystery",
+    "tags": [
+      "Historical",
+      "Philosophy"
+    ],
+    "publisher": "Bompiani",
+    "yearOfPublishing": 1980
+  },
+  {
+    "bookId": 86,
+    "bookName": "Watchmen",
+    "author": "Alan Moore",
+    "image": "https://tse1.mm.bing.net/th?q=Watchmen%20Alan%20Moore%20book%20cover",
+    "review": "In an alternate 1985 America, retired vigilantes investigate a murder that leads to a massive conspiracy threatening global war.",
+    "totalPages": 416,
+    "rating": 4.8,
+    "category": "Graphic Novel",
+    "tags": [
+      "Superheroes",
+      "Dystopian"
+    ],
+    "publisher": "DC Comics",
+    "yearOfPublishing": 1987
+  },
+  {
+    "bookId": 87,
+    "bookName": "Maus",
+    "author": "Art Spiegelman",
+    "image": "https://tse1.mm.bing.net/th?q=Maus%20Art%20Spiegelman%20book%20cover",
+    "review": "A graphic novel depicting the author interviewing his father about surviving the Holocaust, portraying Jews as mice and Germans as cats.",
+    "totalPages": 296,
+    "rating": 4.8,
+    "category": "Graphic Novel",
+    "tags": [
+      "WWII",
+      "Memoir"
+    ],
+    "publisher": "Pantheon Books",
+    "yearOfPublishing": 1986
+  },
+  {
+    "bookId": 88,
+    "bookName": "Good Omens",
+    "author": "Neil Gaiman & Terry Pratchett",
+    "image": "https://tse1.mm.bing.net/th?q=Good%20Omens%20Neil%20Gaiman%20%26%20Terry%20Pratchett%20book%20cover",
+    "review": "An angel and a demon who enjoy living on Earth team up to prevent the Apocalypse and misplaced Antichrist child.",
+    "totalPages": 412,
+    "rating": 4.5,
+    "category": "Fantasy",
+    "tags": [
+      "Humor",
+      "Comedy"
+    ],
+    "publisher": "Gollancz",
+    "yearOfPublishing": 1990
+  },
+  {
+    "bookId": 89,
+    "bookName": "Red Rising",
+    "author": "Pierce Brown",
+    "image": "https://tse1.mm.bing.net/th?q=Red%20Rising%20Pierce%20Brown%20book%20cover",
+    "review": "Darrow, a low-caste miner on Mars, infiltrates the ruling Gold class to spark a revolution against a color-coded caste society.",
+    "totalPages": 382,
+    "rating": 4.6,
+    "category": "Sci-Fi",
+    "tags": [
+      "Dystopian",
+      "Rebellion"
+    ],
+    "publisher": "Del Rey",
+    "yearOfPublishing": 2014
+  },
+  {
+    "bookId": 90,
+    "bookName": "The Invisible Man",
+    "author": "H.G. Wells",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Invisible%20Man%20H.G.%20Wells%20book%20cover",
+    "review": "A scientist named Griffin invents a way to change a body's refractive index to air, rendering himself invisible—and dangerously insane.",
+    "totalPages": 156,
+    "rating": 4.0,
+    "category": "Sci-Fi",
+    "tags": [
+      "Classic",
+      "Horror"
+    ],
+    "publisher": "C. Arthur Pearson",
+    "yearOfPublishing": 1897
+  },
+  {
+    "bookId": 91,
+    "bookName": "The Time Machine",
+    "author": "H.G. Wells",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Time%20Machine%20H.G.%20Wells%20book%20cover",
+    "review": "A Victorian scientist travels into the far future to discover humanity evolved into two distinct species: the gentle Eloi and sinister Morlocks.",
+    "totalPages": 118,
+    "rating": 4.1,
+    "category": "Sci-Fi",
+    "tags": [
+      "Time Travel",
+      "Classic"
+    ],
+    "publisher": "Heinemann",
+    "yearOfPublishing": 1895
+  },
+  {
+    "bookId": 92,
+    "bookName": "East of Eden",
+    "author": "John Steinbeck",
+    "image": "https://tse1.mm.bing.net/th?q=East%20of%20Eden%20John%20Steinbeck%20book%20cover",
+    "review": "An epic saga in California's Salinas Valley recreating the Biblical story of Cain and Abel across two generations of families.",
+    "totalPages": 601,
+    "rating": 4.8,
+    "category": "Classic",
+    "tags": [
+      "Family",
+      "Morality"
+    ],
+    "publisher": "Viking Press",
+    "yearOfPublishing": 1952
+  },
+  {
+    "bookId": 93,
+    "bookName": "Babel: Or the Necessity of Violence",
+    "author": "R.F. Kuang",
+    "image": "https://tse1.mm.bing.net/th?q=Babel%3A%20Or%20the%20Necessity%20of%20Violence%20R.F.%20Kuang%20book%20cover",
+    "review": "In an alternate 1830s Oxford, silver-working magic powers British imperialism, forcing a Chinese orphan student to choose between reform or revolution.",
+    "totalPages": 544,
+    "rating": 4.5,
+    "category": "Fantasy",
+    "tags": [
+      "Dark Academia",
+      "History"
+    ],
+    "publisher": "Harper Voyager",
+    "yearOfPublishing": 2022
+  },
+  {
+    "bookId": 94,
+    "bookName": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Handmaid%27s%20Tale%20Margaret%20Atwood%20book%20cover",
+    "review": "In the totalitarian Republic of Gilead, fertile women called Handmaids are forced into reproductive servitude to repopulate a dying world.",
+    "totalPages": 311,
+    "rating": 4.4,
+    "category": "Sci-Fi",
+    "tags": [
+      "Dystopian",
+      "Feminism"
+    ],
+    "publisher": "McClelland and Stewart",
+    "yearOfPublishing": 1985
+  },
+  {
+    "bookId": 95,
+    "bookName": "The Bell Jar",
+    "author": "Sylvia Plath",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Bell%20Jar%20Sylvia%20Plath%20book%20cover",
+    "review": "Esther Greenwood's summer internship in New York turns into a haunting downward spiral into clinical depression and breakdown.",
+    "totalPages": 244,
+    "rating": 4.2,
+    "category": "Classic",
+    "tags": [
+      "Psychological",
+      "Autobiographical"
+    ],
+    "publisher": "Heinemann",
+    "yearOfPublishing": 1963
+  },
+  {
+    "bookId": 96,
+    "bookName": "Pachinko",
+    "author": "Min Jin Lee",
+    "image": "https://tse1.mm.bing.net/th?q=Pachinko%20Min%20Jin%20Lee%20book%20cover",
+    "review": "A grand, multi-generational saga following a Korean family living in Japan through war, discrimination, and struggle for survival.",
+    "totalPages": 496,
+    "rating": 4.7,
+    "category": "Historical",
+    "tags": [
+      "Korea",
+      "Family"
+    ],
+    "publisher": "Grand Central Publishing",
+    "yearOfPublishing": 2017
+  },
+  {
+    "bookId": 97,
+    "bookName": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "image": "https://tse1.mm.bing.net/th?q=Fahrenheit%20451%20Ray%20Bradbury%20book%20cover",
+    "review": "A futuristic story about Guy Montag, a fireman tasked with burning outlawed books, who begins to revolt against the anti-intellectual government.",
+    "totalPages": 249,
+    "rating": 4.5,
+    "category": "Sci-Fi",
+    "tags": [
+      "Dystopian",
+      "Censorship"
+    ],
+    "publisher": "Ballantine Books",
+    "yearOfPublishing": 1953
+  },
+  {
+    "bookId": 98,
+    "bookName": "Flowers for Algernon",
+    "author": "Daniel Keyes",
+    "image": "https://tse1.mm.bing.net/th?q=Flowers%20for%20Algernon%20Daniel%20Keyes%20book%20cover",
+    "review": "The progress reports of Charlie Gordon, a mentally disabled man who undergoes an experimental surgical procedure to dramatically boost his intelligence.",
+    "totalPages": 311,
+    "rating": 4.6,
+    "category": "Sci-Fi",
+    "tags": [
+      "Heartbreaking",
+      "Psychology"
+    ],
+    "publisher": "Harcourt, Brace & World",
+    "yearOfPublishing": 1966
+  },
+  {
+    "bookId": 99,
+    "bookName": "Hyperion",
+    "author": "Dan Simmons",
+    "image": "https://tse1.mm.bing.net/th?q=Hyperion%20Dan%20Simmons%20book%20cover",
+    "review": "Seven pilgrims travel to the mysterious Time Tombs on the world of Hyperion to seek a wish from the deadly creature known as the Shrike.",
+    "totalPages": 482,
+    "rating": 4.6,
+    "category": "Sci-Fi",
+    "tags": [
+      "Space Opera",
+      "Mystery"
+    ],
+    "publisher": "Doubleday",
+    "yearOfPublishing": 1989
+  },
+  {
+    "bookId": 100,
+    "bookName": "The Poisonwood Bible",
+    "author": "Barbara Kingsolver",
+    "image": "https://tse1.mm.bing.net/th?q=The%20Poisonwood%20Bible%20Barbara%20Kingsolver%20book%20cover",
+    "review": "A fierce missionary father moves his wife and four daughters to the Belgian Congo in 1959, with catastrophic consequences for their family and faith.",
+    "totalPages": 546,
+    "rating": 4.4,
+    "category": "Historical",
+    "tags": [
+      "Drama",
+      "Cultural"
+    ],
+    "publisher": "HarperFlamingo",
+    "yearOfPublishing": 1998
+  }
+]
